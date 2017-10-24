@@ -1,0 +1,48 @@
+.bodycss
+{
+	background-color: rgb(104,205,213);
+	font-family: Arial, "Microsoft YaHei", "微软雅黑";
+	color: white;
+}
+
+.icon01css
+{
+	margin: 2% 88% 8% 5%;
+	max-width: 100%;
+	height:auto;
+}
+
+.icon02css
+{
+	margin: 5%;
+	text-align: center;
+	max-width: 100%;
+	height:auto;
+}
+
+.text02css
+{
+	margin: 15%;
+	text-align: center;
+}
+
+.icontext03css
+{
+	float: left;
+	margin-top: 15%;
+	margin-left: 20%; 
+	text-align: center;
+	max-width: 100%;
+	height:auto;
+}
+
+.icontext04css
+{
+	float: right;
+	margin-top: 15%;
+	margin-right: 20%;
+	text-align: center;
+	max-width: 100%;
+	height:auto;
+}
+}
